@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="E2E Automation Test Suite" verbose="1" parallel="tests">
+    <test name="HomePage Test">
+        <classes>
+            <class name="com.bboygg.e2e_automation_selenium_java.tests.HomePageTest" />
+        </classes>
+    </test>
+</suite>
