@@ -20,8 +20,6 @@
 │       │   └── com
 │       │       └── bboygg
 │       │           └── e2e_automation_selenium_java
-│       │               ├── MainPage.java
-│       │               ├── MainPageTest.java
 │       │               ├── pages
 │       │               │   ├── BasePage.java
 │       │               │   └── HomePage.java
