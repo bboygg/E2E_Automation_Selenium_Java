@@ -20,12 +20,5 @@ public class HomePage extends BasePage{
      * Example: shareBtn
      */
 
-    // Page methods for the Contact Page
-    /**
-     * This method enters the user's name into the name input field.
-     *
-     * @param name The name of the user.
-     */
-
 
 }
