@@ -9,7 +9,6 @@
 
 ```bash
 .
-├── browsers.json
 ├── mvnw
 ├── mvnw.cmd
 ├── pom.xml
